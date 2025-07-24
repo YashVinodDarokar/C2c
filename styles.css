@@ -9,7 +9,7 @@ body {
   background: url('images/wolverine-hero.jpg') no-repeat center center/cover;
   text-align: center;
   padding: 100px 20px;
-  color: #00bfff;
+  color: #ffcc00;
 }
 
 .tagline {
@@ -24,7 +24,7 @@ section {
 }
 
 h2 {
-  color: #00bfff;
+  color: #ffcc00;
   margin-bottom: 20px;
 }
 
